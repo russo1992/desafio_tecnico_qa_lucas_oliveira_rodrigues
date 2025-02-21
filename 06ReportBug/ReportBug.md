@@ -27,7 +27,7 @@ Era esperado que a senha fosse redefinida normalmente
 . Era esperado que a sua conta fosse redefinida
 
 ### ❌ Resultado Obtido
-. Template ausente
+. Template ausente ,  Erro de configuração / Falha na disponibilidade do template
 
 ### 🛠 Ambiente
 - **Sistema:**  
