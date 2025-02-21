@@ -404,7 +404,7 @@ Autenticator
 * 21 de Fevereiro ~ 21 de Fevereiro : Criação do Cenário de teste;
 * 21 de Fevereiro ~ 21 de Fevereiro : Criação do Caso de teste;
 * 21 de Fevereiro ~ 21 de Fevereiro : Execução do Caso de teste;
-* 15 de Fevereiro ~ 21 de Fevereiro : Criação do Relatorio de teste;
-* 15 de Fevereiro ~ 21 de Fevereiro : Criação do Reporter Bug;
-* 15 de Fevereiro ~ 21 de Fevereiro : Revisão de todos os documentos feitos;
-* 15 de Fevereiro ~ 21 de Fevereiro : Entrega do Projeto via email para a Empresa;
+* 21 de Fevereiro ~ 21 de Fevereiro : Criação do Relatorio de teste;
+* 21 de Fevereiro ~ 21 de Fevereiro : Criação do Reporter Bug;
+* 21 de Fevereiro ~ 21 de Fevereiro : Revisão de todos os documentos feitos;
+* 21 de Fevereiro ~ 21 de Fevereiro : Entrega do Projeto via email para a Empresa;
