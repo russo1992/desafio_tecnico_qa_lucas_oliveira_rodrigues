@@ -28,32 +28,19 @@
 * [Sugestões de melhorias]()
 * [Métricas de teste]()
   
-  
-
-
-
-
 
 <br/>
 
 
-## 📌 Descrição do Projeto - Teste da Voll Solutions :
+## 📌 Descrição do Projeto - desafio_tecnico_qa_lucas_oliveira_rodrigues Autenticator :
 <br/>
 
-* Este projeto foi criado com o intuito de identificar possíveis bugs numa aplicação chamada Banco testes.
-* E tem como objetivo testar as principais funcionalidades do sistema bancário "Banco Teste", garantindo sua confiabilidade e identificando possíveis falhas. Para isso, foram analisadas as seguintes operações:
-<br/>
+O projeto tem como objetivo implementar uma tela de login com validações necessárias, onde os usuários podem se autenticar, permitindo o acesso a uma plataforma ou sistema.
 
-* Login e Logout: Verificação do acesso à conta e segurança ao sair.
-* Consulta de Saldo: Garantia de que o valor apresentado é atualizado corretamente.
-* Depósito: Validação da inserção de valores e atualização do saldo.
-* Saque: Testes para evitar retiradas inválidas e garantir a exatidão do saldo.
-* Transferência: Verificação da funcionalidade de envio de valores para outras contas.
-* Histórico de Transações: Teste da consistência e precisão dos registros de movimentações financeiras.
 <br/>
 
 
-####  O Plano de teste , Cenários de teste , Casos de teste , Teste exploratório , Relatório de teste , Relatório de Bug , Sugestôes de melhorias e Métricas de teste se encontram dentro de suas pastas em arquivos .md
+####  O Plano de teste , Cenários de teste , Casos de teste , Relatório de teste , Relatório de Bug , Sugestôes de melhorias e Métricas de teste se encontram dentro de suas pastas em arquivos .md
 ####  Não houve a nescessidade de usar o Jira devido a falta de tempo, então o quadro kanban não foi feito.
 <br/>
 
