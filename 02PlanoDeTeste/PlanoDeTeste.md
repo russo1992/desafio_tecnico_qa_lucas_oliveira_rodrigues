@@ -238,9 +238,9 @@ Autenticator
 * Cenário 4 : Registro com e-mail inválido 
 * Cenário 5 : Login bem-sucedido
 * Cenário 6 : Logout bem-sucedido
-* Cenário 7 : Login com e-mail no formato inválido sem o @
+* Cenário 7 : Login com usuario em branco
 * Cenário 8 : Login com senha vazia
-* Cenário 9 : Login com e-mail no formato inválido sem o .com
+* Cenário 9 : Login com senha no formato certo mas minuscula"??"
 * Cenário 10 :Login bem-sucedido após redefinição de senha 
 
 <br/>
@@ -250,19 +250,21 @@ Autenticator
 ## Matriz de Rastreabilidade
 <br/>
 
-# 📊 Matriz de Rastreabilidade
+# Matriz de Rastreabilidade de Testes
 
-| ID  | Caso de Teste                                      | Requisito Relacionado                | Status |
-|-----|--------------------------------------------------|--------------------------------------|--------|
-| TC01 | Registro bem-sucedido                           | O sistema deve permitir registro    | ✅      |
-| TC02 | Registro com e-mail já cadastrado              | O e-mail deve ser único             |      |
-| TC03 | Registro com senha fraca                        | A senha deve ter pelo menos 6 caracteres |      |
-| TC04 | Registro com e-mail inválido                    | O sistema deve validar o formato do e-mail |       |
-| TC05 | Login bem-sucedido                              | O sistema deve permitir login       |       |
-| TC06 | Logout bem-sucedido                             | O sistema deve permitir logout      |       |
-| TC08 | Login com senha vazia                           | O campo senha deve ser obrigatório  |       |
-| TC09 | Login com e-mail no formato inválido sem ".com"| O sistema deve validar o e-mail     |      |
-| TC10 | Login bem-sucedido após redefinição de senha   | O sistema deve permitir redefinição de senha |       |
+| **ID do Cenário** | **Descrição**                                          | **Status**      |
+|-------------------|--------------------------------------------------------|-----------------|
+| **Cenário 1**      | Registro bem-sucedido                                 | Passou          |
+| **Cenário 2**      | Registro com e-mail já cadastrado                     | Passou          |
+| **Cenário 3**      | Registro com senha fraca                              | Passou          |
+| **Cenário 4**      | Registro com e-mail inválido                          | Passou          |
+| **Cenário 5**      | Login bem-sucedido                                    | Passou          |
+| **Cenário 6**      | Logout bem-sucedido                                   | Passou          |
+| **Cenário 7**      | Login com usuário em branco                           | Passou          |
+| **Cenário 8**      | Login com senha vazia                                 | Passou          |
+| **Cenário 9**      | Login com senha no formato certo mas minúscula        | Passou          |
+| **Cenário 10**     | Login bem-sucedido após redefinição de senha          | **Falhou**      |
+
 
 
 <br/>
@@ -292,13 +294,13 @@ Autenticator
 - **Cenário 5**: Login bem-sucedido 
   - **Justificativa**: Verifica se um usuário válido consegue acessar o sistema corretamente.
 
-- **Cenário 7**: Login com e-mail inválido sem "@" 
+- **Cenário 7**: Login com usuário em branco 
   - **Justificativa**: Entrada previsível, possível validar a resposta do sistema.
 
 - **Cenário 8**: Login com senha vazia
   - **Justificativa**: Valida se o sistema bloqueia o login quando a senha não é informada.
 
-- **Cenário 9**: Login com e-mail inválido sem ".com"
+- **Cenário 9**: Login com senha no formato certo mas minúscula
   - **Justificativa**: Semelhante ao cenário 7, fácil de validar a resposta.
 
 - **Cenário 10**: Login após redefinição de senha
@@ -397,12 +399,12 @@ Autenticator
 <br/>
  
 
-* 21 de Fevereiro ~ 15 de Fevereiro : Criação do Mapa Mental;
-* 21 de Fevereiro ~ 15 de Fevereiro : Criação do Plano de teste;
-* 21 de Fevereiro ~ 15 de Fevereiro : Criação do Cenário de teste;
-* 21 de Fevereiro ~ 15 de Fevereiro : Criação do Caso de teste;
-* 15 de Fevereiro ~ 15 de Fevereiro : Execução do Caso de teste;
-* 15 de Fevereiro ~ 15 de Fevereiro : Criação do Relatorio de teste;
-* 15 de Fevereiro ~ 15 de Fevereiro : Criação do Reporter Bug;
-* 15 de Fevereiro ~ 15 de Fevereiro : Revisão de todos os documentos feitos;
-* 15 de Fevereiro ~ 15 de Fevereiro : Entrega do Projeto via email para a Empresa;
+* 21 de Fevereiro ~ 21 de Fevereiro : Criação do Mapa Mental;
+* 21 de Fevereiro ~ 21 de Fevereiro : Criação do Plano de teste;
+* 21 de Fevereiro ~ 21 de Fevereiro : Criação do Cenário de teste;
+* 21 de Fevereiro ~ 21 de Fevereiro : Criação do Caso de teste;
+* 21 de Fevereiro ~ 21 de Fevereiro : Execução do Caso de teste;
+* 15 de Fevereiro ~ 21 de Fevereiro : Criação do Relatorio de teste;
+* 15 de Fevereiro ~ 21 de Fevereiro : Criação do Reporter Bug;
+* 15 de Fevereiro ~ 21 de Fevereiro : Revisão de todos os documentos feitos;
+* 15 de Fevereiro ~ 21 de Fevereiro : Entrega do Projeto via email para a Empresa;
