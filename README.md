@@ -53,7 +53,7 @@ Linkedin : [Lucas Oliveira Rodrigues](https://www.linkedin.com/in/lucas-oliveira
 ## Colaboradores✨
 <br/>
 
-* Bruno Cesar (Graças a ele , fiquei sabendo da postagem da vaga).
+* Heinz Stranner Junior (Ele que me falou sobre a vaga).
 
 <br/>
 
