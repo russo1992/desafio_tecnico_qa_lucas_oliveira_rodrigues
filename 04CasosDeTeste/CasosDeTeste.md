@@ -1,6 +1,8 @@
 # Casos de Teste
 <br/>
 
+
+
 **Feature:Registro**
 <br/>
 
@@ -14,6 +16,7 @@
  * Então o sistema deve criar a conta com sucesso e redirecioná-lo para a tela de login
 <br/>
 
+
 **Cenário 2 :  Registro com e-mail já cadastrado**
 <br/>
 
@@ -23,6 +26,8 @@ TC02
 * Então o sistema deve exibir a mensagem "E-mail já cadastrado"
 * E impedir o registro
 <br/>
+
+
 
 **Cenário 3 : Registro com senha fraca**
 <br/>
@@ -35,6 +40,7 @@ TC03
 * E impedir o cadastro
 <br/>
 
+
 **Cenário 4 : Registro com e-mail inválido**
 <br/>
 
@@ -45,6 +51,7 @@ TC04
 * Então o sistema deve exibir a mensagem "Formato de e-mail inválido"
 <br/>
 
+
 **Feature:Login**
 <br/>
 
@@ -53,10 +60,11 @@ TC04
 
 TC05
 * Dado que o usuário tem um cadastro válido
-* Quando ele inserir um e-mail e senha corretos e clicar em "Entrar"
+* Quando ele inserir um usuario e senha corretos e clicar em "Entrar"
 * Então ele deve ser autenticado com sucesso 
 * E redirecionado para a tela inicial
 <br/>
+
 
 **Cenário 6 :  Logout bem-sucedido**
 <br/>
@@ -68,15 +76,17 @@ TC06
 * E redirecionado para a tela de login
 <br/>
 
-**Cenário 7 : Login com e-mail no formato inválido sem o @**
+
+**Cenário 7 : Login com usuario em branco**
 <br/>
 
 TC07
 * Dado que o usuário deseja fazer login
-* Quando ele inserir um e-mail com formato incorreto (exemplo: "lucasrj58gmail.com")
+* Quando ele deixar o campo usuario em branco
 * E clicar em "Entrar"
-* Então o sistema deve exibir uma mensagem "Formato de e-mail inválido"
+* Então o sistema deve exibir uma mensagem "Preencha este campo"
 <br/>
+
 
 **Cenário 8 :  Login com senha vazia**
 <br/>
@@ -88,15 +98,18 @@ TC08
 * Então o sistema deve exibir a mensagem "O campo senha é obrigatório"
 <br/>
 
-**Cenário 9 : Login com e-mail no formato inválido sem o .com**
+
+**Cenário 9 : Login com senha no formato certo mas minuscula"??"**
 <br/>
 
 TC09
 * Dado que o usuário deseja fazer login
-* Quando ele inserir um e-mail com formato incorreto (exemplo: "lucasrj58@gmail")
+* Quando ele inserir um usuario correto
+* Mas a senha correta  em formatação minuscula "tia14mae32$"
 * E clicar em "Entrar"
-* Então o sistema deve exebir uma mensagem "Formato de e-mail inválido"
+* Então o sistema deve exibir uma mensagem "Credenciais invalida"
 <br/>
+
 
 **Cenário 10 : Login bem-sucedido após redefinição de senha**
 <br/>
@@ -105,4 +118,5 @@ TC10
 * Dado que o usuário redefiniu sua senha recentemente
 * Quando ele inserir a nova senha e clicar em "Entrar"
 * Então ele deve conseguir acessar sua conta normalmente
-  
+<br/>
+
