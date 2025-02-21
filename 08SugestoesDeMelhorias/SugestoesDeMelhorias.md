@@ -1,4 +1,4 @@
-# Sugestoes d Melhorias
+# Sugestoes de Melhorias
 <br/>
 
 # 1. Melhoria na UX do Registro e Login (Cenários 2, 4, 7, 8)
