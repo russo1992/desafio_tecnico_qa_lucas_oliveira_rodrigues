@@ -26,7 +26,7 @@
 * [Relatorio de teste](https://github.com/russo1992/desafio_tecnico_qa_lucas_oliveira_rodrigues/blob/main/05RelatorioDeTeste/RelatorioDeTeste.md)
 * [Reporter bugs](https://github.com/russo1992/desafio_tecnico_qa_lucas_oliveira_rodrigues/blob/main/06ReportBug/ReportBug.md)
 * [Métricas de teste](https://github.com/russo1992/desafio_tecnico_qa_lucas_oliveira_rodrigues/blob/main/07MetricasDeTeste/MetricasDeTeste.md)
-* [Sugestões de melhorias]()
+* [Sugestões de melhorias](https://github.com/russo1992/desafio_tecnico_qa_lucas_oliveira_rodrigues/blob/main/08SugestoesDeMelhorias/SugestoesDeMelhorias.md)
   
 
 <br/>
