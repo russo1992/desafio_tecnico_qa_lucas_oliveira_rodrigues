@@ -71,8 +71,8 @@ TC05
 * E redirecionado para a tela inicial
 <br/>
 
-(![alt text](<../assets/Autenticator - cenario 5.png))
-(![alt text](<../assets/Autenticator - cenario 5 parte 2.png))
+(![alt text](<../assets/Autenticator - cenario 5.png>))
+(![alt text](<../assets/Autenticator - cenario 5 parte 2.png>))
 
 **Cenário 6 :  Logout bem-sucedido**
 <br/>
