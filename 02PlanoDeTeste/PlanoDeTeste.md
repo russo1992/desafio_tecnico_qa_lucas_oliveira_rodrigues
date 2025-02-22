@@ -44,7 +44,7 @@ Histórico de mudanças
 * Teste Funcional do Autenticator
 <br/>
 
-## Não está no escopo da User Story do Banco Teste testar as funcionalidades de:
+## Não está no escopo da User Story do Autenticator testar as funcionalidades de:
 <br/>
 
 N/A
@@ -54,7 +54,7 @@ N/A
 ## Referências
 <br/>
 
-Mapa mental do Banco Teste.
+Mapa mental do Autenticator.
 
 (![alt text](<../assets/mapa mental desafio tecnico.png>))
 
