@@ -240,7 +240,7 @@ Autenticator
 * Cenário 6 : Logout bem-sucedido
 * Cenário 7 : Login com usuario em branco
 * Cenário 8 : Login com senha vazia
-* Cenário 9 : Login com senha no formato certo mas minuscula"??"
+* Cenário 9 : Login com senha no formato certo mas minuscula
 * Cenário 10 :Login bem-sucedido após redefinição de senha 
 
 <br/>
