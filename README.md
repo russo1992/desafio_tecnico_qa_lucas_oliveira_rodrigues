@@ -15,7 +15,7 @@
 * [Título e Imagem de capa](https://github.com/russo1992/desafio_tecnico_qa_lucas_oliveira_rodrigues#desafio_tecnico_qa_lucas_oliveira_rodrigues)
 * [Status do Projeto](https://github.com/russo1992/desafio_tecnico_qa_lucas_oliveira_rodrigues#-status-do-projeto)
 * [Índice](https://github.com/russo1992/desafio_tecnico_qa_lucas_oliveira_rodrigues#-%C3%ADndice)
-* [Descrição do Projeto - Teste Da Solutions](https://github.com/russo1992/desafio_tecnico_qa_lucas_oliveira_rodrigues#-descri%C3%A7%C3%A3o-do-projeto---desafio_tecnico_qa_lucas_oliveira_rodrigues-autenticator-)
+* [Descrição do Projeto - Autenticator](https://github.com/russo1992/desafio_tecnico_qa_lucas_oliveira_rodrigues#-descri%C3%A7%C3%A3o-do-projeto---desafio_tecnico_qa_lucas_oliveira_rodrigues-autenticator-)
 * [Pessoa Desenvolvedora do Projeto](https://github.com/russo1992/desafio_tecnico_qa_lucas_oliveira_rodrigues#-pessoa-desenvolvedora-do-projeto)
 * [Colaboradores](https://github.com/russo1992/desafio_tecnico_qa_lucas_oliveira_rodrigues#colaboradores)
 * [Ferramentas utilizadas](https://github.com/russo1992/desafio_tecnico_qa_lucas_oliveira_rodrigues#ferramentas-utilizadas-)
